@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Dari
+- 🌱 I’m currently learning JavaScript Stack.
